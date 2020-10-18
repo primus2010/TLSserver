@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "firstname":"Ivan",
+      "lastname" :"Ivanov",
+      "age" : 23
+    },
+    {
+      "firstname":"Petr",
+      "lastname" :"Petrov",
+      "age" : 32
+    },
+    {
+      "firstname":"Sidor",
+      "lastname" :"Sidorov",
+      "age" : 25
+    }
+  ]
+}

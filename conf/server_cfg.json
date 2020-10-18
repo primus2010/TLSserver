@@ -1,0 +1,8 @@
+{
+  "db_user" : "ssluser",
+  "db_password" : "V2yC9dP6d",
+  "db_name" : "testdb",
+
+  "cert_file" : "keys/cert.pem",
+  "key_file" : "keys/key.pem"
+}
